@@ -1,5 +1,5 @@
 ## 150 Messenger for Android
-150 Messenger is an open-source app with real-time messaging, voice and video call features. This repo contains the source code for 150 Messenger App for Android. The GitHub repository for iOS version is [here](https://github.com/150/messenger-app-ios).
+150 Messenger is an open-source app with real-time messaging, voice and video call features. This repo contains the source code for 150 Messenger App for Android. 
 
 ### Features
 - One-on-one messaging and Group chat
